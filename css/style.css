@@ -1,0 +1,92 @@
+html {
+    background-color: #777
+}
+
+
+h1 {
+    text-align: center;
+    color: #777;
+    background-color: #ebebeb;
+    margin: 20px;
+    font-size: 50px;
+}
+
+h3 {
+    background-color: #ebebeb;
+    color: #777;
+    font-weight: bold;
+}
+
+nav {
+    background-color: #ebebeb;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+    border: 20px;
+}
+
+#section1 {
+    text-align: left;   
+    background-color: #ebebeb;
+    border: 20px;
+    padding: 20px;
+    width: 495px;
+}
+
+article {
+    background-color: #777;
+    color: #ebebeb;
+    text-align: center;
+}
+
+p {
+    padding: 10px;
+    background-color: #ebebeb;
+    color: #777;
+    text-align: center;
+}
+
+#section2 {
+    padding: 10px;
+}
+
+#section {
+    background-color: #ebebeb;
+    text-align: center;
+
+}
+
+/* unable to position aside and footer */
+#aside {
+    float: right;
+    width: 495px;
+    color: #777;
+    background-color: #ebebeb;
+}
+
+#footer {
+    text-align: center;
+    padding: 15px;
+    color: #777;
+    background-color: #ebebeb;
+    bottom: 25%;
+    float: center;
+    width: 495px;
+    height: 60px;
+
+}
+
+
+div {
+    float: left;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777;
+    background-color: #777;
+    width: 960px;
+    font-size: 18px;
+
+}
+
